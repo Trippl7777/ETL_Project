@@ -1,0 +1,14 @@
+-- Create a new table
+CREATE TABLE people (
+
+index FLOAT64, 
+City VARCHAR(30), 
+Code VARCHAR(10), 
+StartDate DATE, 
+StartTime INT, 
+Latitude FLOAT64, 
+Longitude FLOAT64, 
+Description VARCHAR(50), 
+Mapping VARCHAR(50), 
+Weather VARCHAR(50)
+);
